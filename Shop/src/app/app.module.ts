@@ -8,6 +8,7 @@ import { CartPageComponent } from './cart-page/cart-page.component';
 import { MainPageComponent } from './main-page/main-page.component';
 import { ProductPageComponent } from './product-page/product-page.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
